@@ -7,7 +7,11 @@ Has the advantage of being statically hostable and no longer requiring a captcha
 
 ## Available Scripts
 
-In the project directory, you can run:
+First run:
+
+### `npm install`
+
+Then, in the project directory, you can run:
 
 ### `npm dev` or `npm start`
 
